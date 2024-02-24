@@ -1,4 +1,4 @@
-[EN](./README.md) / [JA](./README_ja.md)
+[EN](https://github.com/selcold/.github/blob/main/profile/README.md) / [JA](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
 
 # selcold 開発チームへようこそ！
 
