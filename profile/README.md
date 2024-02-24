@@ -1,3 +1,5 @@
+[EN](./README.md) / [JA](./README_ja.md)
+
 # selcold Development Team
 
 Welcome to the official repository of selcold Development Team! We are a diverse group based in Japan, composed of students as well as other individuals who are passionate about coding and creating innovative projects.
