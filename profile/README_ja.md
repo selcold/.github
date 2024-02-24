@@ -18,3 +18,8 @@ selcold 開発チームの公式リポジトリへようこそ！私たちは、
 
 ---
 *ノート: 私たちのプロジェクトを探検し、コミュニティに貢献してください。様々なバックグラウンドやスキルレベルの個人からのフィードバック、提案、協力を歓迎します。*
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/selcold/count.svg" />
+</p>
