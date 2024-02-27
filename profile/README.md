@@ -2,9 +2,11 @@
 
 # selcold Development Team
 
+<img src="https://avatars.githubusercontent.com/u/158077722?s=400&u=fd59c1bd8e6b2cd173dffcd9407c2611b76961ed&v=4" alt="Scratch Addons logo" align="right" width="96px"></img>
+
 Welcome to the official repository of selcold Development Team! We are a diverse group based in Japan, composed of students as well as other individuals who are passionate about coding and creating innovative projects.
 
-## About Us
+### About Us
 Our organization is relatively new, but our members are driven by a shared love for technology and a desire to learn and grow together. We believe in the power of collaboration and constantly strive to push the boundaries of what we can achieve.
 
 ## Projects
