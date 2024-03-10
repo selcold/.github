@@ -1,4 +1,4 @@
-[EN](https://github.com/selcold/.github/blob/main/profile/README.md) / [JA](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
+[English](https://github.com/selcold/.github/blob/main/profile/README.md) / [日本語](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
 
 # selcold Development Team
 
