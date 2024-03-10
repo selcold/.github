@@ -14,7 +14,9 @@ Our organization is relatively new, but our members are driven by a shared love 
 ### scratch-building
 **scratch-building** is a game created on the Scratch platform, and this repository serves as its official website. It offers various features such as account authentication, commenting, notifications, and community engagement. We have just released the initial version and plan to continue adding new features in the future.
 
-**Website:** [scratch-building](https://github.com/selcold/scratch-building)
+**Website:**
+- [scratch-building](https://github.com/selcold/scratch-building)
+- [website v3-alpha for next.js](https://github.com/selcold/scratch-building-beta)
 
 Join us as we embark on this exciting journey of exploration and innovation in the world of software development!
 
