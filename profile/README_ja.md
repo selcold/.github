@@ -12,7 +12,9 @@ selcold 開発チームの公式リポジトリへようこそ！私たちは、
 ### scratch-building
 **scratch-building** は、Scratchプラットフォーム上で作成されたゲームであり、このリポジトリはその公式ウェブサイトとして機能しています。アカウント認証、コメント、通知、コミュニティ参加など、さまざまな機能が提供されています。初版をリリースし、今後も新機能の追加を予定しています。
 
-**ウェブサイト:** [scratch-building](https://github.com/selcold/scratch-building)
+**ウェブサイト:**
+- [scratch-building](https://github.com/selcold/scratch-building)
+- [website v3-alpha for next.js](https://github.com/selcold/scratch-building-beta)
 
 ソフトウェア開発の世界での探求と革新のエキサイティングな旅に一緒に参加しましょう！
 
