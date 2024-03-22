@@ -16,7 +16,6 @@ Our organization is relatively new, but our members are driven by a shared love 
 
 **Website:**
 - [scratch-building](https://github.com/selcold/scratch-building)
-- [website v3-alpha for next.js](https://github.com/selcold/scratch-building-beta)
 
 Join us as we embark on this exciting journey of exploration and innovation in the world of software development!
 
