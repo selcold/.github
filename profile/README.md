@@ -1,6 +1,13 @@
 [English](https://github.com/selcold/.github/blob/main/profile/README.md) / [日本語](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
 
-# selcold Development Team
+<h1 align="center">
+  selcold Development Team
+  <div align="center">
+    <a href="https://github.com/selcold?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/selcold">
+    </a>
+  </div>
+</h1>
 
 <img src="https://avatars.githubusercontent.com/u/158077722?s=400&u=fd59c1bd8e6b2cd173dffcd9407c2611b76961ed&v=4" alt="selcold logo" align="right" width="96px"></img>
 
