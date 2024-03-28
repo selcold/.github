@@ -1,6 +1,13 @@
 [English](https://github.com/selcold/.github/blob/main/profile/README.md) / [日本語](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
 
-# selcold 開発チームへようこそ！
+<h1 align="center">
+  selcold 開発チームへようこそ！
+  <div align="center">
+    <a href="https://github.com/selcold?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/selcold">
+    </a>
+  </div>
+</h1>
 
 selcold 開発チームの公式リポジトリへようこそ！私たちは、日本を拠点とする熱心な学生やその他の人たちで構成されており、コーディングや革新的なプロジェクト作成に情熱を注いでいます。
 
