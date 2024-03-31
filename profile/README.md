@@ -1,6 +1,8 @@
 [English](https://github.com/selcold/.github/blob/main/profile/README.md) / [日本語](https://github.com/selcold/.github/blob/main/profile/README_ja.md)
 
 <h1 align="center">
+  <img src="https://github.com/selcold.png" alt="selcold logo" width="96px"/>
+
   selcold Development Team
   <div align="center">
     <a href="https://github.com/selcold?tab=followers">
@@ -8,8 +10,6 @@
     </a>
   </div>
 </h1>
-
-<img src="https://avatars.githubusercontent.com/u/158077722?s=400&u=fd59c1bd8e6b2cd173dffcd9407c2611b76961ed&v=4" alt="selcold logo" align="right" width="96px"></img>
 
 Welcome to the official repository of selcold Development Team! We are a diverse group based in Japan, composed of students as well as other individuals who are passionate about coding and creating innovative projects.
 
