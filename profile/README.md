@@ -5,9 +5,11 @@
 
   selcold Development Team
   <div align="center">
+    <!--
     <a href="https://github.com/selcold?tab=followers">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/selcold">
     </a>
+    -->
   </div>
 </h1>
 
