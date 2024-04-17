@@ -23,9 +23,34 @@ selcold 開発チームの公式リポジトリへようこそ！私たちは、
 ### scratch-building
 **scratch-building** は、Scratchプラットフォーム上で作成されたゲームであり、このリポジトリはその公式ウェブサイトとして機能しています。アカウント認証、コメント、通知、コミュニティ参加など、さまざまな機能が提供されています。初版をリリースし、今後も新機能の追加を予定しています。
 
-**ウェブサイト:**
-- [scratch-building](https://github.com/selcold/scratch-building)
-- [website v3-alpha for next.js](https://github.com/selcold/scratch-building-beta)
+<p align="left">
+  <a href="https://github.com/selcold/scratch-building">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building" />
+    </picture>
+  </a>
+  <a href="https://github.com/selcold/scratch-building-docs">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building-docs&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building-docs"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=selcold&repo=scratch-building-docs" />
+    </picture>
+  </a>
+</p>
 
 ソフトウェア開発の世界での探求と革新のエキサイティングな旅に一緒に参加しましょう！
 
