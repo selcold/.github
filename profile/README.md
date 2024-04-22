@@ -18,6 +18,8 @@ Welcome to the official repository of selcold Development Team! We are a diverse
 ### About Us
 Our organization is relatively new, but our members are driven by a shared love for technology and a desire to learn and grow together. We believe in the power of collaboration and constantly strive to push the boundaries of what we can achieve.
 
+Join us as we embark on this exciting journey of exploration and innovation in the world of software development!
+
 ## Projects
 
 ### scratch-building
@@ -51,8 +53,6 @@ Our organization is relatively new, but our members are driven by a shared love 
     </picture>
   </a>
 </p>
-
-Join us as we embark on this exciting journey of exploration and innovation in the world of software development!
 
 ---
 *Note: Feel free to explore our projects and contribute to our community. We welcome feedback, suggestions, and collaboration from fellow developers and enthusiasts.*
